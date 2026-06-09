@@ -42,7 +42,7 @@ WAFI automates the process of identifying WAF presence and testing bypass techni
 **Requirements:** Python 3.10+
 
 ```bash
-git clone https://github.com/yourusername/wafi.git
+git clone https://github.com/pyscopat/wafi.git
 cd wafi
 pip install requests
 ```
